@@ -183,13 +183,3 @@ class Main
 	end
 end
 Main.new.program
-
-
-
-	 	
-
-
-
-
-
-
